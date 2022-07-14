@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/golang-patterns/singleton/singleton"
+	"github.com/golang-patterns/creational/singleton/singleton"
 )
 
 func main() {
