@@ -21,7 +21,7 @@ type dataIterator struct {
 	data  []*data
 }
 
-// Некототорая коллекция данных
+// dataCollection - Некоторая коллекция данных
 type dataCollection struct {
 	data []*data
 }
